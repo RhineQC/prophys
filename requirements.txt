@@ -1,0 +1,3 @@
+prophys>=0.4
+numpy>=1.26
+matplotlib>=3.8
